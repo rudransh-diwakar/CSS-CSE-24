@@ -1,0 +1,29 @@
+.container {
+    text-align: left;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: hsla(0, 0%, 94%, 0.938);
+    width: fit-content;
+    
+    
+}
+.item {
+    display: inline-block;
+     width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 20px;
+}
+
+#box1 {
+    background-color: hsla(64, 99%, 44%, 0.3);
+}
+#box2 {
+    background-color: hsl(0, 87%, 59%);
+}
+#box3 {
+    background-color: hsl(174, 94%, 50%);
+}
